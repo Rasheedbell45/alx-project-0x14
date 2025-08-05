@@ -1,1 +1,15 @@
-
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker navigates life post-revealing his identity...",
+      "release_date": "2021-12-17",
+      "vote_average": 8.3
+    },
+    ...
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
